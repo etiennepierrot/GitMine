@@ -1,2 +1,2 @@
 # GitMine
-a git repo miner
+a git repo miner experimental
